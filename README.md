@@ -5,7 +5,7 @@
 # ログイン画面
 ![ログイン画面](https://user-images.githubusercontent.com/76026039/213667459-a1b997c1-9c91-4327-92a4-49eb2c5d4b38.png)
 # 2022年10月の画面
-![2022年10月の画面](https://user-images.githubusercontent.com/76026039/213667759-5d4d0549-42b1-4245-9b6d-56e9c873feda.png")
+![2022年10月の画面](https://user-images.githubusercontent.com/76026039/213667759-5d4d0549-42b1-4245-9b6d-56e9c873feda.png)
 # 廃液の追加と編集
 ![薬品の追加・編集](https://user-images.githubusercontent.com/76026039/213668517-a3e7a0f4-9df6-4e6a-94e2-4e0e12d8e436.png)
 # 通常ユーザーと管理者ユーザーでの権限の有無
